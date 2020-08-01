@@ -42,7 +42,7 @@ Otherwise, we define that this word doesn't use capitals in a right way.
 #        else:
 #            return True
 
-# Approach 2: use isupper()
+# Approach 2: Character by Character with isupper()
 # Time Complexity: O(n)
 # where n == len(word), only need to check each char at most constant times
 # Space Complexity: O(1)
