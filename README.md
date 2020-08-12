@@ -10,3 +10,5 @@
 | 342.  | Day 4: Power of Four                           | Easy       |[Python](august/Day4_Power_of_Four.py)|Divide by four| O(log n) | O(1)|
 | 211.  | Day 5: Add and Search Word                     | Medium     |[Python](august/Day5_Add_and_Search_Word.py)|TRIE| O(n) | |
 | 442.  | Day 6: Find All Duplicates in an Array         | Medium     |[Python](august/Day6_Find_All_Duplicates_in_an_Array.py)|Dictionary|O(n)| |
+| 987.  | Day 7: Vertical Order Traversal of a Binary Tree | Medium     |[Python](august/Day7_Vertical_Order_Traversal_of_a_Binary_Tree.py)||| |
+
